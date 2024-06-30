@@ -1,5 +1,5 @@
 # Adventure-Workshop-Report-Power-BI 📊
-
+### Dashboard link : https://app.powerbi.com/reportEmbed?reportId=cb0e101d-0a47-426d-8b59-cfa948d8e305&autoAuth=true&ctid=e3cb3164-d5be-4d7a-8fc6-7a9298efc8d7
  ## Project Overview
 
 In this project, we aim to create an interactive and insightful report using Power BI. The report will cover various aspects of the Adventure Workspace data, providing valuable insights through different visualizations and analysis techniques.
